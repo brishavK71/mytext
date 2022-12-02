@@ -1,10 +1,10 @@
 
-// import About from './components/About';
+import About from './components/About';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 import React, {useState} from 'react';
 import Alert from './components/Alert';
-// import {  Routes, Route } from 'react-router-dom';
+
 
 
 
@@ -50,13 +50,11 @@ function App() {
       <Navbar title="myText" navcomp1= "Home" navcomp2= "About us" mode={mode} toggleMode={toggleMode} />
       <Alert alert={alert}/>
       <div className='container my-3'>
-      <TextForm showAlert={showAlert} heading="Enter your text to analyze"/>
-      {/* // <Routes>
-      //   <Route path='/' element={}/>
-      //   <Route path='/about' element={<About />} />       
-      // </Routes> */}
-      </div>
       
+        <TextForm showAlert={showAlert} heading="Enter your text to analyze"/>
+        <About mode={mode}/>       
+      
+      </div>
     </>
   );
 }
