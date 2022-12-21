@@ -1,15 +1,15 @@
 {
-  "main.css": "/First-react-proj/static/css/main.2bd5beab.chunk.css",
-  "main.js": "/First-react-proj/static/js/main.7b64856e.chunk.js",
-  "main.js.map": "/First-react-proj/static/js/main.7b64856e.chunk.js.map",
-  "static/js/1.82d436f4.chunk.js": "/First-react-proj/static/js/1.82d436f4.chunk.js",
-  "static/js/1.82d436f4.chunk.js.map": "/First-react-proj/static/js/1.82d436f4.chunk.js.map",
-  "static/js/2.31d77044.chunk.js": "/First-react-proj/static/js/2.31d77044.chunk.js",
-  "static/js/2.31d77044.chunk.js.map": "/First-react-proj/static/js/2.31d77044.chunk.js.map",
-  "runtime~main.js": "/First-react-proj/static/js/runtime~main.e35eb774.js",
-  "runtime~main.js.map": "/First-react-proj/static/js/runtime~main.e35eb774.js.map",
-  "static/css/main.2bd5beab.chunk.css.map": "/First-react-proj/static/css/main.2bd5beab.chunk.css.map",
-  "index.html": "/First-react-proj/index.html",
-  "precache-manifest.278e4efc8588e565c4bb71020e2ed368.js": "/First-react-proj/precache-manifest.278e4efc8588e565c4bb71020e2ed368.js",
-  "service-worker.js": "/First-react-proj/service-worker.js"
+  "main.css": "/mytext/static/css/main.2bd5beab.chunk.css",
+  "main.js": "/mytext/static/js/main.7b64856e.chunk.js",
+  "main.js.map": "/mytext/static/js/main.7b64856e.chunk.js.map",
+  "static/js/1.82d436f4.chunk.js": "/mytext/static/js/1.82d436f4.chunk.js",
+  "static/js/1.82d436f4.chunk.js.map": "/mytext/static/js/1.82d436f4.chunk.js.map",
+  "static/js/2.31d77044.chunk.js": "/mytext/static/js/2.31d77044.chunk.js",
+  "static/js/2.31d77044.chunk.js.map": "/mytext/static/js/2.31d77044.chunk.js.map",
+  "runtime~main.js": "/mytext/static/js/runtime~main.0cea7649.js",
+  "runtime~main.js.map": "/mytext/static/js/runtime~main.0cea7649.js.map",
+  "static/css/main.2bd5beab.chunk.css.map": "/mytext/static/css/main.2bd5beab.chunk.css.map",
+  "index.html": "/mytext/index.html",
+  "precache-manifest.4f6e635b261a2f01724a8af77cbb209b.js": "/mytext/precache-manifest.4f6e635b261a2f01724a8af77cbb209b.js",
+  "service-worker.js": "/mytext/service-worker.js"
 }
