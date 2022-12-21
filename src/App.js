@@ -1,5 +1,5 @@
 
-import About from './components/About';
+// import About from './components/About';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 import React, {useState} from 'react';
@@ -52,7 +52,7 @@ function App() {
       <div className='container my-3'>
       
         <TextForm showAlert={showAlert} heading="Enter your text to analyze"/>
-        <About mode={mode}/>       
+        {/* <About mode={mode}/>        */}
       
       </div>
     </>
